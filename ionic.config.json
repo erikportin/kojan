@@ -1,0 +1,7 @@
+{
+  "name": "kojan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

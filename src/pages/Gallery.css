@@ -1,0 +1,10 @@
+.gallery{
+    text-align: center;
+}
+
+.gallery img{
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 800px;
+    width: 100%;
+}

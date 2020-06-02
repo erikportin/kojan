@@ -1,0 +1,8 @@
+.images{
+    text-align: center;
+}
+
+.images img{
+    display: block;
+    margin: 0 auto 10px;
+}

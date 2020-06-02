@@ -1,0 +1,73 @@
+.link{
+    --border-style: none;
+    --background-hover: transparent;
+    --background-focused: transparent;
+    --background-activated: transparent;
+    --color: transparent;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.link img{
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.title{
+    background: url(/assets/nav/kojan.gif) no-repeat center center;
+    max-width: 260px;
+    height: 130px;
+    background-color: #424242;
+    padding: 10px;
+    text-indent: -9999px;
+    background-size: 100% auto;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.history{
+    background: url(/assets/nav/historia.jpeg) no-repeat center center;
+    max-width: 260px;
+    height: 130px;
+    padding: 10px;
+    text-indent: -9999px;
+    background-size: 100% auto;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.gallery-title{
+    background: url(/assets/nav/pikks.jpeg) no-repeat center center;
+    max-width: 260px;
+    height: 130px;
+    padding: 10px;
+    text-indent: -9999px;
+    background-size: 100% auto;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.links{
+    background: url(/assets/nav/linkks.jpeg) no-repeat center center;
+    max-width: 260px;
+    height: 130px;
+    padding: 10px;
+    text-indent: -9999px;
+    background-size: 100% auto;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.games{
+    background: url(/assets/nav/skojiga-spel.jpeg) no-repeat center center;
+    max-width: 260px;
+    height: 130px;
+    padding: 10px;
+    text-indent: -9999px;
+    background-size: 100% auto;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+
+

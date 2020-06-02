@@ -1,0 +1,9 @@
+ion-content{
+    --padding-start: 20px;
+    --padding-end: 20px;
+    --padding-bottom: 60px;
+}
+
+a{
+    color: #020288;
+}
